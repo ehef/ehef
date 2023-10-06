@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @e-heff (Ethan)
-- 👀 I’m interested in automation, prototyping, analytics, rocketry, and conservation
-- 📚 I’m currently studying Biophysics at UCSD
-- 🌱 I'm currently using and learning Python, MATLAB, & VBA
-- 💞️ I’m looking to collaborate on nothing in particular
+- 👋 Hi, I’m @ehef (Ethan)
+- 📚 I’m currently studying at UCSD
 - 📫 You can reach me at eheffernan@ucsd.edu
 
 <!---
